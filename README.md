@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manoharpatil working as Senior Consultant in R&D at @Lightbend. 
+- 👋 Hi, I’m @manohar_patil working as Senior Consultant in R&D at @Lightbend. 
 - 👀 I’m interested in Scala | Akka | Kalix | Slick | PlayFramework | Reactive | Distributed | Real-Time Microservices | AWS | Docker | Kubernetes | Golang
 - 🌱 I’m currently learning Kalix.
 - 💞️ I’m looking to collaborate on Scala Ecosystem Projects.
