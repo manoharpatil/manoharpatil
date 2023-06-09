@@ -2,7 +2,7 @@
 - 👀 I’m interested in Scala | Akka | Kalix | Slick | PlayFramework | Reactive | Distributed | Real-Time Microservices | AWS | Docker | Kubernetes
 - 🌱 I’m currently learning Kalix.
 - 💞️ I’m looking to collaborate on Scala Ecosystem Projects.
-- 📫 You can reach me directly at "mspatil2410@gmail.com" or at "+91-7588735282"
+- 📫 You can reach out to me directly at "mspatil2410@gmail.com".
 
 <!---
 manoharpatil/manoharpatil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
